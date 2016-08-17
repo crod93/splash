@@ -27,4 +27,4 @@ $ git clone https://github.com/crod93/splash.git
 $ npm install
 ```
 
-![app example](http://www.cdylrod.com/wp-content/uploads/2016/08/Default@2x-1280x960.png)
+<img href="http://www.cdylrod.com/wp-content/uploads/2016/08/Default@2x-1280x960.png" height="500px" width="500px"/>
