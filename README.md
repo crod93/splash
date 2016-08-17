@@ -1,7 +1,7 @@
 # splash
 An unofficial ios app of Unsplash using react native 
 
-## Built using these great 3rd party components
+## Built using
 <ul>
   <li>
   <a href="https://github.com/lucholaf/react-native-grid-view">React Native Grid/Collection View component</a>
