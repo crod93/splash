@@ -26,5 +26,8 @@ A random wallpaper gallery to choose from using the Unsplash API.
 $ git clone https://github.com/crod93/splash.git
 $ npm install
 ```
+<img src="http://www.cdylrod.com/wp-content/uploads/2016/08/Default@2x-1280x960.png"  width="300" height="500" />
+<img src="http://www.cdylrod.com/wp-content/uploads/2016/08/Simulator-Screen-Shot-Aug-13-2016-2.58.54-PM-1280x960.png"  width="300" height="500" />
+<img src="http://www.cdylrod.com/wp-content/uploads/2016/08/Simulator-Screen-Shot-Aug-13-2016-3.00.58-PM-1280x960.png"  width="300" height="500" />
 
-<img href="http://www.cdylrod.com/wp-content/uploads/2016/08/Default@2x-1280x960.png" height="500px" width="500px"/>
+
